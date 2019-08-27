@@ -1,4 +1,4 @@
-module github.com/adrianmo/go-nmea
+module github.com/SnapITHD/go-nmea
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
